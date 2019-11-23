@@ -1,0 +1,3 @@
+Simple Java Application which runs on a RaspPi which
+ monitors Temperature using a DS18B20 Probe conntected 
+ via 1 Wire protocol.
