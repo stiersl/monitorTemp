@@ -16,7 +16,7 @@ import java.util.List;
 
 public class App{
 	public static void main(final String[] args) throws InterruptedException, IOException {
-		System.out.println("Press Any Key to exit reading.");
+		System.out.println("Press Any Key to exit reading!.");
 		final String w1DevicesPath = "/sys/bus/w1/devices/"; // path to where to find the one Wire device Files
 		final String deviceName = "28-0000081bf384"; // device name //
 		final String filename = "/w1_slave"; // Name of file to ready
